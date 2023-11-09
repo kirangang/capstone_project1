@@ -10,7 +10,7 @@ The hotel industry relies heavily on data-driven decision-making to optimize pri
 
 ## Data
 
-The dataset used in this project is provided in the `data` directory. It includes information about hotel bookings, such as customer demographics, booking channels, reservation status, and more. The dataset is named `hotel_bookings.csv`.
+The dataset used in this project is `hotel_bookings.csv`. It includes information about hotel bookings, such as customer demographics, booking channels, reservation status, and more. 
 
 ## Project Goals
 
