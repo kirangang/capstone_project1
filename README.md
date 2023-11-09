@@ -1,8 +1,8 @@
 # capstone_project1
 
-# Hotel Booking Analysis EDA Project
+# Hotel Booking Analysis Project
 
-Welcome to the Hotel Booking Analysis EDA project repository. This project focuses on exploring and analyzing data related to hotel bookings to gain insights and make data-driven decisions in the hospitality industry. This README provides an overview of the project, its goals, and how to use the code and data provided in this repository.
+Welcome to the Hotel Booking Analysis project repository. This project focuses on exploring and analyzing data related to hotel bookings to gain insights and make data-driven decisions in the hospitality industry. This README provides an overview of the project, its goals, and how to use the code and data provided in this repository.
 
 ## Introduction
 
